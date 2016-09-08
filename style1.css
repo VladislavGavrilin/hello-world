@@ -1,0 +1,13 @@
+body{ background: url("Blue-rule.png");}
+.spinach
+{
+	color:green;
+}
+.parBegin::before{
+content: url("Yellow-pin.png");
+}
+strong
+{
+	color:red;
+	background:#75E0F7;
+}
